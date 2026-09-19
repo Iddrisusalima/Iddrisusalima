@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Salima%20Iddrisu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Robotics%20Instructor%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%" alt="Salima Iddrisu banner" />
 
 <a href="https://github.com/Iddrisusalima">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=667EEA&center=true&vCenter=true&width=700&lines=AI+Engineer+building+intelligent+systems;Teaching+robots+to+move%2C+and+students+to+build+them;Python+%7C+PyTorch+%7C+TensorFlow+%7C+Node.js+%7C+SQL;Robotics+%2B+3D+Printing+%2B+Applied+Data+Science;Building+from+Accra%2C+Ghana" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=667EEA&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Robotics+Instructor;Python+%7C+PyTorch+%7C+TensorFlow+%7C+SQL;Building+from+Accra%2C+Ghana" alt="Typing intro" />
 </a>
 
 <br/>
